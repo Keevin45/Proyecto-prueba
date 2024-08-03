@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+}
+h1 {
+	background: #004aad;
+	font-size: 60px;
+	color: transparent;
+	background-clip: text;
+}
+label {
+	color: seagreen;
+	text-decoration: underline;
+	font-size: 35px;
+}
+input {
+	width: 100px;
+}
+p {
+	font-size: 30px;
+	text-decoration: overline;
+	color: blueviolet;
+}
